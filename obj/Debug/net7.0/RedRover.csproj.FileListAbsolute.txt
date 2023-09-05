@@ -1,0 +1,15 @@
+/home/cor/Documents/Development/NET/RedRover/bin/Debug/net7.0/RedRover
+/home/cor/Documents/Development/NET/RedRover/bin/Debug/net7.0/RedRover.deps.json
+/home/cor/Documents/Development/NET/RedRover/bin/Debug/net7.0/RedRover.runtimeconfig.json
+/home/cor/Documents/Development/NET/RedRover/bin/Debug/net7.0/RedRover.dll
+/home/cor/Documents/Development/NET/RedRover/bin/Debug/net7.0/RedRover.pdb
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.csproj.AssemblyReference.cache
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.GeneratedMSBuildEditorConfig.editorconfig
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.AssemblyInfoInputs.cache
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.AssemblyInfo.cs
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.csproj.CoreCompileInputs.cache
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.dll
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/refint/RedRover.dll
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.pdb
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/RedRover.genruntimeconfig.cache
+/home/cor/Documents/Development/NET/RedRover/obj/Debug/net7.0/ref/RedRover.dll
